@@ -1,6 +1,6 @@
 <?php
 
-namespace App\CollectionBundle\DependencyInjection;
+namespace Vinecave\Bundle\RegistryBundle\DependencyInjection;
 
 use Vinecave\Bundle\RegistryBundle\Registry\Registry;
 use ReflectionClass;
