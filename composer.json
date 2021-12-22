@@ -15,7 +15,7 @@
 
   "autoload": {
     "psr-4": {
-      "Vinecave\\Bundle\\CollectionBundle\\": ""
+      "Vinecave\\Bundle\\RegistryBundle\\": ""
     }
   }
 }

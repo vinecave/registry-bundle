@@ -1,6 +1,6 @@
 <?php
 
-namespace Vinecave\Bundle;
+namespace Vinecave\Bundle\RegistryBundle;
 
 use Vinecave\Bundle\RegistryBundle\DependencyInjection\RegistryCompilerPass;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
